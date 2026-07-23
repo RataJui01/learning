@@ -1,0 +1,14 @@
+{
+  "name": "recipe-book",
+  "version": "1.0.0",
+  "description": "Recipe book server built with the raw http module, fs.readFileSync, and a custom template module",
+  "license": "ISC",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

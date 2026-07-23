@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "name": "Tomato Basil Pasta",
+    "image": "pasta.jpg",
+    "category": "Italian",
+    "cookTime": 20,
+    "servings": 2,
+    "vegetarian": true,
+    "ingredients": "Pasta, tomatoes, basil, garlic, olive oil, parmesan",
+    "instructions": "Boil pasta. Saute garlic and tomatoes in olive oil. Toss with pasta and fresh basil, top with parmesan."
+  },
+  {
+    "id": 1,
+    "name": "Chicken Fried Rice",
+    "image": "fried-rice.jpg",
+    "category": "Asian",
+    "cookTime": 25,
+    "servings": 3,
+    "vegetarian": false,
+    "ingredients": "Rice, chicken breast, eggs, soy sauce, peas, carrots, spring onion",
+    "instructions": "Cook chicken and set aside. Scramble eggs. Stir-fry rice with vegetables, add chicken and eggs back in, season with soy sauce."
+  },
+  {
+    "id": 2,
+    "name": "Avocado Toast",
+    "image": "avocado-toast.jpg",
+    "category": "Breakfast",
+    "cookTime": 10,
+    "servings": 1,
+    "vegetarian": true,
+    "ingredients": "Bread, avocado, lemon juice, salt, chili flakes",
+    "instructions": "Toast bread. Mash avocado with lemon juice and salt. Spread on toast and top with chili flakes."
+  },
+  {
+    "id": 3,
+    "name": "Beef Tacos",
+    "image": "tacos.jpg",
+    "category": "Mexican",
+    "cookTime": 30,
+    "servings": 4,
+    "vegetarian": false,
+    "ingredients": "Ground beef, taco shells, lettuce, cheese, salsa, onion",
+    "instructions": "Cook ground beef with taco seasoning. Fill taco shells with beef, lettuce, cheese, onion, and salsa."
+  }
+]
