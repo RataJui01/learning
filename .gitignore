@@ -1,7 +1,2 @@
 node_modules/
 *.env
-
-# Ignore JSON data/config files, but keep package manifests tracked
-*.json
-!package.json
-!package-lock.json
